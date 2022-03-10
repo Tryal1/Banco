@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1645064399 source:d:\universidad\laboratorio 2\cajero_banco\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<time.h>
+	"definicion.h"
+	"function.h"
+	"class.h"
+	"cuentas.h"
+	"menus.h"
+	"movimiento.h"
+
+1645099949 d:\universidad\laboratorio 2\cajero_banco\function.h
+	"class.h"
+	"cuentas.h"
+	"menus.h"
+	"movimiento.h"
+
+1645064964 d:\universidad\laboratorio 2\cajero_banco\class.h
+
+1645062767 d:\universidad\laboratorio 2\cajero_banco\menus.h
+
+1645063937 d:\universidad\laboratorio 2\cajero_banco\definicion.h
+
+1645048287 d:\universidad\laboratorio 2\cajero_banco\cuentas.h
+
+1645029980 d:\universidad\laboratorio 2\cajero_banco\movimiento.h
+
